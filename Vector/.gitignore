@@ -1,4 +1,11 @@
-#compiled output files
-* .exe
-* .o
-* .out
+# VS Code specific
+.vscode/
+.qodo/
+
+# Compiled files
+*.exe
+*.o
+*.out
+
+# Mac specific
+.DS_Store
