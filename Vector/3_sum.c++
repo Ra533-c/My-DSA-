@@ -116,3 +116,6 @@ int main(){
 
     return 0;
 }
+
+//T.C => O(n)
+//S.C => O(n + m) => m = n = O(n)
